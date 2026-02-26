@@ -16,3 +16,4 @@
 4. **Validation:** Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
 ## UML Class Diagram
+![UML Class Diagram Chain of Responsibility Pattern](src/UMLCD_CoRPattern.png)
